@@ -1,0 +1,12 @@
+[package]
+name = "rsmath"
+version = "0.1.0"
+authors = ["Alex Pikalov <alex.pikalov.khar@gmail.com>"]
+
+description = "Math special functions implemented in Rust"
+documentation = "https://docs.rs/cdrs"
+homepage = "https://github.com/AlexPikalov/rsmath"
+repository = "https://github.com/AlexPikalov/rsmath"
+readme = "./README.md"
+keywords = ["mathematics", "numbers"]
+license = "MIT/Apache-2.0"
